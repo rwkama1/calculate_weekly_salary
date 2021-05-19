@@ -1,0 +1,16 @@
+{
+  "name": "weekly-salary-worker",
+  "version": "1.0.0",
+  "description": "Calculate the weekly salary of a worker",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/calculate_weekly_salary"
+  },
+ 
+  "keywords": ["js","javascript","calculation","salary","employee","worker","weeklysalary"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
